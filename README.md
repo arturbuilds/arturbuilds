@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Artur 👋
 
-<!--
-**arturbuilds/arturbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Asynchronous Backend & Core AI Engineer. I design high-performance backends, custom execution frameworks, and multi-agent AI workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Stack
+
+* **AI / Deep Learning Core:** PyTorch, Custom Autograd Engines, Vector Search (Qdrant, ChromaDB)
+* **LLM & Agent Frameworks:** LangGraph (Async), LangChain, MCP (Model Context Protocol)
+* **Backend Ecosystem:** FastAPI, asyncio, SQLAlchemy 2.0, PostgreSQL, Redis, Celery, HTTPX
+
+---
+
+## Key Projects
+
+* **[pyzapo](https://github.com/arturbuilds/pyzapo)** - A custom tensor autograd engine built from scratch in pure Python. Implements dynamic graph construction, backpropagation, and execution context managers.
+* **[onlydevs-fastapi-backend](https://github.com/arturbuilds/onlydevs-fastapi-backend)** - Production-ready asynchronous REST API architecture utilizing SQLAlchemy 2.0, Alembic migrations, and Redis caching.
+* **[docchat](https://github.com/arturbuilds/docchat)** — Asynchronous RAG pipelines for contextual document parsing using LangChain and persistent vector stores.
+
+---
+
+## Analytics
+
+![GitHub Stats](https://vercel.app)
+![Top Languages](https://vercel.app)
