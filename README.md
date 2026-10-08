@@ -15,7 +15,7 @@ Asynchronous Backend & Core AI Engineer. I design high-performance backends, cus
 ## Key Projects
 
 * **[pyzapo](https://github.com/arturbuilds/pyzapo)** - A custom tensor autograd engine built from scratch in pure Python. Implements dynamic graph construction, backpropagation, and execution context managers.
-* **[onlydevs-fastapi-backend](https://github.com/arturbuilds/onlydevs-fastapi-backend)** - Production-ready asynchronous REST API architecture utilizing SQLAlchemy 2.0, Alembic migrations, and Redis caching.
+* **[moodtune-api](https://github.com/arturbuilds/moodtune-api)** — Asynchronous REST API service built with FastAPI and designed for production-ready backend deployments.
 * **[docchat](https://github.com/arturbuilds/docchat)** — Asynchronous RAG pipelines for contextual document parsing using LangChain and persistent vector stores.
 
 ---
