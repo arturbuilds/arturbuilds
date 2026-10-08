@@ -1,4 +1,4 @@
-# Hi, I'm Artur 👋
+# Hi, I'm Artur
 
 Asynchronous Backend & Core AI Engineer. I design high-performance backends, custom execution frameworks, and multi-agent AI workflows.
 
@@ -19,8 +19,3 @@ Asynchronous Backend & Core AI Engineer. I design high-performance backends, cus
 * **[docchat](https://github.com/arturbuilds/docchat)** — Asynchronous RAG pipelines for contextual document parsing using LangChain and persistent vector stores.
 
 ---
-
-## Analytics
-
-![GitHub Stats](https://vercel.app)
-![Top Languages](https://vercel.app)
