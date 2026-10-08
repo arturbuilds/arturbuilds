@@ -15,7 +15,7 @@ Asynchronous Backend & Core AI Engineer. I design high-performance backends, cus
 ## Key Projects
 
 * **[pyzapo](https://github.com/arturbuilds/pyzapo)** - A custom tensor autograd engine built from scratch in pure Python. Implements dynamic graph construction, backpropagation, and execution context managers.
-* **[deep-research-orchestrator](https://github.com/arturbuilds/deep-research-orchestrator)** - An asynchronous multi-agent orchestration framework designed for complex hierarchical deep research workflows.
+* **[deep-research-orchestra](https://github.com/arturbuilds/deep-research-orchestra)** - An asynchronous multi-agent orchestration framework designed for complex hierarchical deep research workflows.
 * **[docchat](https://github.com/arturbuilds/docchat)** - Asynchronous RAG pipelines for contextual document parsing using LangChain and persistent vector stores.
 
 ---
